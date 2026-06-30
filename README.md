@@ -1,0 +1,1 @@
+A collection of Java programs developed during my TCS training. This repository demonstrates core programming concepts including variables, operators, loops, conditional statements, arrays, methods, object-oriented programming, exception handling, and basic problem-solving exercises.
